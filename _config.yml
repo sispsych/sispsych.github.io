@@ -35,6 +35,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+search: true
+include: [_pages]
 # added include - cache
 # Exclude from processing.
 # The following items will not be processed, by default.
