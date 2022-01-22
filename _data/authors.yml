@@ -1,0 +1,21 @@
+Junseo Lee:
+  name        : "Junseo Lee"
+  bio         : "uwu"
+  avatar      : "/pictures/junseolol-modified.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:junseo.lee24@stu.siskorea.org"
+Behavioral Neuroscience Club:
+  name: Behavioral Neuroscience Club
+  avatar: "pictures/icon.jpg"
+  bio    : >-
+  location: Seongnam, South Korea
+  github: "sispsych"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sispsychology@gmail.com"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCFQ8WlLN-ye9VLUEsDJOzjA"

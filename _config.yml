@@ -36,6 +36,10 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 search: true
 include: [_pages]
+defaults:
+  values:
+    author_profile: true
+    read_time: true
 # added include - cache
 # Exclude from processing.
 # The following items will not be processed, by default.
