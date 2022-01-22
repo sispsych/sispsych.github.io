@@ -21,9 +21,9 @@
 title: BNS
 email: sispsychology@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Seoul International School's Behavioral Neuroscience Club. 
+  We aim to widen our knowledge on psychology and spread our knowledge throughout our community. 
+  Come join us!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://sispsych.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sispsych
