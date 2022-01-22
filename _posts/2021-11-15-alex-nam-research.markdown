@@ -3,7 +3,6 @@ layout: single
 author: Junseo Lee
 author_profile: true
 title: "Depression"
-read_time: true
 ---
 Although a majority of people believe depression is caused by a chemical imbalance in one’s brain, according to research done at Harvard University, depression is mostly caused by faulty mood regulation by the brain, genetic vulnerability, stressful life events, and medical problems. People face hardships in their lives and some people are better at adjusting to them, while others are more vulnerable towards them. Ones who are more vulnerable to these hardships tend to receive depression. In 2016, the National Institute of Mental Health estimates that 16.2 million U.S adults endured depression. 
 

@@ -3,3 +3,5 @@ main:
     url: /articles
   - title: "Videos"
     url: /videos
+  - title: "Nanum Korea"
+    url: /nanumkorea
