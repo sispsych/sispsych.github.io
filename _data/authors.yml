@@ -1,11 +1,19 @@
 Junseo Lee:
   name        : "Junseo Lee"
-  bio         : "uwu"
+  bio         : "2nd in NHD Korea. Professional author rivaled by Grace Lee"
   avatar      : "/pictures/junseolol-modified.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:junseo.lee24@stu.siskorea.org"
+Yunjae Nam:
+  name        : "Yunjae Nam"
+  bio         : "Editor-in-Chief for Tiger Times. Highly qualified to write articles"
+  avatar      : "/pictures/NA.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yunjae.nam24@stu.siskorea.org"
 Behavioral Neuroscience Club:
   name: Behavioral Neuroscience Club
   avatar: "pictures/icon.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: single
-author: Junseo Lee
+author: Yunjae Nam
 author_profile: true
 title: "Depression"
 ---
