@@ -14,6 +14,22 @@ Yunjae Nam:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yunjae.nam24@stu.siskorea.org"
+Gyusung Lee:
+  name        : "Gyusung Lee"
+  bio         : "Writer for BNS"
+  avatar      : "/pictures/NA.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gyusung.lee24@stu.siskorea.org"
+Jinmin Lee:
+  name        : "Jinmin Lee"
+  bio         : "Writer for BNS"
+  avatar      : "/pictures/Jinmin.PNG"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jinmin.lee25@stu.siskorea.org"
 Behavioral Neuroscience Club:
   name: Behavioral Neuroscience Club
   avatar: "pictures/icon.jpg"
