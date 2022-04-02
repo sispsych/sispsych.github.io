@@ -3,6 +3,7 @@ layout: single
 author: Jinmin Lee
 author_profile: true
 title: "The Life of a Salesman"
+tags: economic psychology
 ---
 You finish a good meal of Korean BBQ when one of your parents, holding a credit card as though it’s a baton from a relay race, suddenly rushes toward the counter. Your parents’ friends, also equipped with their own credit cards, follow the chase toward the same direction, their alacrity to spill their money manifesting in their athletic speed. A struggle breaks out as they all quarrel to hand their cards to the cashier before anyone else does. The part-time employee is confused: who’s card am I supposed to take? 
 

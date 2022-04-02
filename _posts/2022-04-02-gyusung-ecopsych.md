@@ -3,6 +3,7 @@ layout: single
 author: Gyusung Lee
 author_profile: true
 title: "Diamonds: the Product of Physiological Advertisement"
+tag: economic psychology
 ---
 In today’s modern world, a diamond represents luxury, romance and dedication. Whenever a man proposes to a woman, it is the norm to do so with a diamond ring. Even in popular video games such as Minecraft, diamonds are regarded as the most valuable resource. Many believe that this connotation of the diamond comes from its natural scarcity, but in fact the story of how it gained its reputation goes no further than to the 19th century, when Cecil Rhodes founded the company De Beers in 1888.
 
