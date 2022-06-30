@@ -1,6 +1,6 @@
 ---
 layout: single
-author: Joseph chun
+author: Joseph Chun
 author_profile: true
 title: "Cryptocurrency: A Money Trap"
 tags: economic psychology
