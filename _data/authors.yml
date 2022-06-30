@@ -22,6 +22,14 @@ Gyusung Lee:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:gyusung.lee24@stu.siskorea.org"
+Joseph Chun:
+  name        : "Joseph Chun"
+  bio         : "Webmasters"
+  avatar      : "/pictures/NA.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:joseph.chun24@stu.siskorea.org"
 Jinmin Lee:
   name        : "Jinmin Lee"
   bio         : "Writer for BNS"
